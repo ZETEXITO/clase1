@@ -1,6 +1,10 @@
+svg{
+    height: 80px;
+}
 div{
     padding: 5px;
     align:center;
+    text-align: center;
 }
 .right{
 text-align: right;
@@ -18,8 +22,7 @@ text-align: right;
     }
 .linea{
     text-decoration-line: underline;
-    text-decoration-line: 10px;
-    text-decoration-color: yellow;
+    text-decoration-color: #fc0;
     padding: 5px;
 }
 .grisesizq{ 
