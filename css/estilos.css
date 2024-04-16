@@ -1,0 +1,40 @@
+div{
+    padding: 5px;
+    align:center;
+}
+.right{
+text-align: right;
+}
+.color1{
+    background-color: rgba(19, 19, 19, 0.89);    
+}
+.color3{
+    background-color: rgb(53, 53, 53);
+    text-align:right ; 
+}
+.stroke {
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke: 0.5px black;
+    }
+.linea{
+    text-decoration-line: underline;
+    text-decoration-line: 10px;
+    text-decoration-color: yellow;
+    padding: 5px;
+}
+.grisesizq{ 
+    text-align:left ; 
+    color: gray;
+    font-size: 14px;
+}
+.grisesder{ 
+    color: gray;
+    font-size: 14px;
+/* lo que esta a la derecha */
+}
+.grados{
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke: 0.25px black;
+    font-size: 14px;
+    text-align:center ; 
+}
